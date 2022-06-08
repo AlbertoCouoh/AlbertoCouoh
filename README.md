@@ -11,13 +11,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
     <title>Document</title>
 </head>
-<body>
 <style>
-.titles{
-  font-family: "Press Start 2P", cursive;
-}
-</style>
-    <h2 class="titles">hola mundo</h2>
+        .titles{
+            font-family: "Press Start 2P", cursive;
+        }
+    </style>
+<body>
+<h2 class="titles">hola mundo</h2>
 </body>
 </html>
 ´´´
