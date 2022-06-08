@@ -1,11 +1,26 @@
-<h1 align="center" style="font-family: 'Press Start 2P'">Alberto Couoh</h1>
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-
-<h3 style="font-family: 'Press Start 2P', cursive; font-size: 16px; text-align: justify;" >A passionate frontend and mobile app developer, I like programming</h3> 
-
+´´´
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+<style>
+.titles{
+  font-family: "Press Start 2P", cursive;
+}
+</style>
+    <h2 class="titles">hola mundo</h2>
+</body>
+</html>
+´´´
 <!--
 **AlbertoCouoh/AlbertoCouoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
