@@ -1,4 +1,4 @@
-<h1 align="center">Alberto Couoh</h1>
+<h1 align="center" style="font-family: 'Press Start 2P'">Alberto Couoh</h1>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
