@@ -1,5 +1,10 @@
 <h1 align="center">Alberto Couoh</h1>
-<h3 align="center">A passionate frontend and mobile app developer, I like programming</h3>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+<h3 style="font-family: 'Press Start 2P', cursive; font-size: 16px; text-align: justify;" >A passionate frontend and mobile app developer, I like programming</h3> 
 
 <!--
 **AlbertoCouoh/AlbertoCouoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
