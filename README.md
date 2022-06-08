@@ -1,8 +1,13 @@
-## Alberto Couoh
-####
+<h1 align="center">Alberto Couoh</h1>
+<h3>I like developer world </h3>
+<img class="hola" src="https://avatars.githubusercontent.com/u/87826852?s=400&u=2ff2fbed454a527c6e4e0adb29cc194fdbb22545&v=4" alt="profile">
 
 
-
+<style>
+    .hola{
+        border-radius: 12px;
+    }
+</style>
 <!--
 **AlbertoCouoh/AlbertoCouoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
